@@ -1,3 +1,4 @@
+#	Create a Python script that reads a CSV file and computes the mean, median, and mode of numerical columns.
 import tensorflow as tf
 import pandas as pd
 import numpy as np
